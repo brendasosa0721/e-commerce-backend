@@ -9,7 +9,7 @@ This application is working in the back-end of an e-commerce site. It is only fo
 
 1. Video Walkthrough:  https://drive.google.com/file/d/1Y6aSCOYWbhnNElhmj_cBrQE9bhEJMBj3/view
 
-2. Github:
+
 
 
 
