@@ -13,6 +13,7 @@ const sequelize = process.env.JAWSDB_URL
     });
 
 module.exports = sequelize;
-Footer
-© 2022 GitHub, Inc.
-Footer navigation
+
+// Footer
+// © 2022 GitHub, Inc.
+// Footer navigation
